@@ -12,4 +12,5 @@ package pkgnew.world;
 public class NewClass {
     
    public String a;
+   private int b;
 }
