@@ -10,5 +10,7 @@ package pkgnew.world;
  * @author Ikhlas
  */
 public class World {
+   
+    private String gas;
     
 }
